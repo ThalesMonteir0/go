@@ -1,0 +1,9 @@
+https://random-status-code.herokuapp.com/ -online: false
+https://www.caelum.com.br/ -online: true
+https://www.alura.com.br/ -online: true
+30/05/2022 13:39:44- https://random-status-code.herokuapp.com/ -online: false
+30/05/2022 13:39:45- https://www.caelum.com.br/ -online: true
+30/05/2022 13:39:46- https://www.alura.com.br/ -online: true
+30/05/2022 13:40:01- https://random-status-code.herokuapp.com/ -online: false
+30/05/2022 13:40:01- https://www.caelum.com.br/ -online: true
+30/05/2022 13:40:02- https://www.alura.com.br/ -online: true
